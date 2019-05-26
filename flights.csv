@@ -1,0 +1,31 @@
+Depart,Arrival,Depart time,Arrival Time,next day
+London,Cario,530,1530,
+Lima,Cario,1500,1400,
+Mexico City,Lima,615,1145,
+New York,Lima,2100,1300,
+Cario,Lima,900,1400,
+Vancover,London,1100,200,TRUE
+New York,London,720,1230,
+Los Angeles ,London,2000,900,TRUE
+New York,Los Angeles,700,1500,
+Seoul,Los Angeles ,800,2100,
+Seoul,Mexico City,825,1900,
+Los Angeles ,Mexico City,720,1100,
+Cario,Moscow,1100,1500,
+Lima,Moscow,1500,1100,TRUE
+London,Moscow,2100,400,TRUE
+Los Angeles,Moscow,2100,1100,TRUE
+Cario,New Dehli,1200,1800,
+Paris,New York,540,1200,
+Shanghai,Paris,1800,1100,
+London,Paris,1500,1700,
+New York,Seoul,530,2100,
+Tokyo,Shanghai,1500,1900,
+Hong Kong,Shanghai,1130,1300,
+London,Shanghai,425,2230,
+Vancover,Shanghai,2100,1200,TRUE
+New York,Shanghai,1100,600,TRUE
+Lima,Shanghai,2000,1400,TRUE
+Vancover,Tokyo,800,2100,
+Lima,Vancouver,600,1400,
+Mexico City,Vancouver,1300,1900,
